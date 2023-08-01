@@ -1,0 +1,105 @@
+
+html {
+	/* font-size:62.5%; */
+  font-size: 0.6vw;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  /* background-color: #f8f4f4; */
+}.desktop-1-zjT {
+  box-sizing: border-box;
+  padding: -1rem 6.65rem 4rem 6.65rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+.desktop-1-zjT .myneta-Xso {
+  margin: 0rem 122.3rem 5.1rem 0rem;
+  text-align: center;
+  font-size: 2vw;
+  font-weight: 700;
+  line-height: 1.188999939;
+  letter-spacing: 0.05rem;
+  color: #05b3a4;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-zjT .begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9 {
+  margin: 6rem 0rem 2.3rem 0.1rem;
+  max-width: 101rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1939998865;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-zjT .begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9 .begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1939998865;
+  letter-spacing: -0.096rem;
+  color: white;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-zjT .begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9 .begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1939998865;
+  letter-spacing: -0.096rem;
+  color: #05b3a4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-zjT .in-the-heart-of-a-bustling-metropolis-the-cityscape-comes-alive-with-a-symphony-of-vibrant-colors-and-pulsating-energy-skyscrapers-pierce-the-skies-reflecting-the-suns-golden-rays-while-the-streets-below-teem-with-people-from-all-walks-of-life-g5o {
+  margin: 0rem 0rem 3.5rem 2rem;
+  max-width: 72.8rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.2839999199;
+  letter-spacing: 0.03rem;
+  color: white;
+  font-family: Outfit, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-zjT .group-1-o3w {
+  margin: 0rem 56.45rem 0rem 58.45rem;
+  width: calc(100% - 114.9rem);
+  height: 5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.1889998913;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db5c00;
+  border-radius: 8.2rem;
+  flex-shrink: 0;
+}

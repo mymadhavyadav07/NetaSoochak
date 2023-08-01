@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>NetaSoochak</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A700"/>
+  <link rel="stylesheet" href="./styles/index.css"/>
+  <link rel="stylesheet" href="./styles/main.css"/>
+  <!-- <script src="js/animate.js"></script> -->
+  <script>
+    function onload(){
+      const check = document.getElementById("checkbox_toggle");
+      check.addEventListener('change', () => {
+        if (check.value === "eng"){
+          check.value = "hin";
+          window.location = "./hindi/index.html";
+        } else if (check.value === "hin"){
+          check.value = "eng";
+          window.location = "../index.html";
+        }
+      })
+
+    };
+    
+    // check.addEventListener('change', () => {
+    //   window.location = "hindi/index.html";
+    // });
+  </script>
+</head>
+<body onload="onload()">
+<div class="desktop-1-zjT">
+
+  <input class="check" type="checkbox" value="eng" id="checkbox_toggle">
+  <div class="checkbox">
+    <label for="checkbox_toggle" class="slide">
+      <label for="checkbox_toggle" class="toggle"></label>
+      <label for="checkbox_toggle" class="text">English</label>
+      <label for="checkbox_toggle" class="text">Hindi</label>
+    </label>
+  </div>
+
+  <p class="myneta-Xso">NetaSoochak</p>
+
+
+  <p class="begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9">
+    <span class="begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9-sub-0">Know Your Candidates, Shape Your Future - </span>  
+    <span class="begin-by-finding-out-who-the-candidates-are-for-the-upcoming-election-here-on-myneta-mn9-sub-1">Empowering Voters for Informed Decisions!</span>
+  </p>
+  <p class="in-the-heart-of-a-bustling-metropolis-the-cityscape-comes-alive-with-a-symphony-of-vibrant-colors-and-pulsating-energy-skyscrapers-pierce-the-skies-reflecting-the-suns-golden-rays-while-the-streets-below-teem-with-people-from-all-walks-of-life-g5o">Welcome to NetaSoochak! Get informed about candidates with unbiased profiles. Compare stances, and access resources to make empowered decisions and strengthen democracy. Exercise your right to vote wisely! </p>
+  
+  
+  
+  <!-- <div class="group-1-o3w">Get Started</div> -->
+  <a href="./elections.html">
+  <button class="cssbuttons-io-button"> Get started
+    <div class="icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"></path><path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path></svg>
+    </div>
+  </button>
+</a>
+  
+<footer class="footer" >
+  <div class="waves">
+    <div class="wave" id="wave1"></div>
+    <div class="wave" id="wave2"></div>
+    <div class="wave" id="wave3"></div>
+    <div class="wave" id="wave4"></div>
+  </div>
+
+</footer>
+
+</div>
+</body>
