@@ -33,16 +33,37 @@ At NetaSoochak, we compile data from reputable sources and update it regularly t
 
 ## 🤝 How to Contribute
 
-We value community contributions in our pursuit of accuracy and comprehensiveness. If you have relevant data to share or notice any discrepancies, please refer to our [Contribution Guidelines](CONTRIBUTING.md) to get involved.
+We value community contributions in our pursuit of accuracy and comprehensiveness. If you find any information inaccurate on our website, you may raise an issue on this repository or you may contact me on any of my social media profiles 😀.
 
 ## 🔒 License
 
 NetaSoochak operates under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the code. Nevertheless, any commercial use requires proper attribution.
 
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://mymadhavyadav07.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" width="150" height="30" style="vertical-align:top; margin:4px">
+  </a>  
+  <br>
+  <a href="https://twitter.com/mymadhavyadav07" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="30" style="vertical-align:top; margin:4px">
+  </a>
+  <br>
+  <a href="https://linkedin.com/in/mymadhavyadav07" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px">
+  </a>
+  <br>
+  <a href="https://instagram.com/mymadhavyadav07" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+
 ---
 
 **Note**: NetaSoochak is an independent, non-partisan platform. We do not endorse or support any particular candidate or political party. Our mission is to uphold transparency and provide unbiased information.
 
-**Disclaimer**: The data presented on NetaSoochak is sourced from publicly available information. While we strive for accuracy, we disclaim responsibility for any inaccuracies or discrepancies. Users are encouraged to verify information from official sources.
+**Disclaimer**: The data presented on NetaSoochak is sourced from [MyNeta](https://www.myneta.info/) which is publicly available. While we strive for accuracy, we disclaim responsibility for any inaccuracies or discrepancies. Users are encouraged to verify information from official sources.
 
 Join us in shaping a stronger democracy! 🗳️ Your vote is your voice!
