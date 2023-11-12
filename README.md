@@ -1,6 +1,6 @@
 # 🗳️ NetaSoochak - Empowering Voters, Enlightening Choices
 
-![NetaSoochak Logo](https://yourwebsite.com/logo.png)
+![NetaSoochak Logo](https://repository-images.githubusercontent.com/673334722/35114ee4-69cc-4cc2-8c60-19fe1c5ec1d0)
 
 Welcome to NetaSoochak, your ultimate platform to access comprehensive data on candidates appearing for elections in India. We provide detailed information about their education, criminal cases, and assets, empowering voters to make informed choices and play an active role in shaping the nation's future.
 
