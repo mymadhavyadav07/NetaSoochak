@@ -13,9 +13,11 @@ Welcome to NetaSoochak, your ultimate platform to access comprehensive data on c
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
+<div id="introduction">
 ## 👋🏼 Introduction
 
 In the spirit of a thriving democracy, NetaSoochak strives to promote transparency and accountability in the electoral process. We understand the importance of an informed electorate and present you with reliable data to support your decisions during elections.
+</div>
 
 ## 🎨 Features
 
